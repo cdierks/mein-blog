@@ -1,0 +1,11 @@
+// Import Google Fonts: Fira Sans
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,400i,700,700i'); // Brand-Colors
+$ultra-violet     : hsl(259, 30, 42);
+$sky-blue         : hsl(204, 47, 66);
+$beige            : hsl(28, 39, 77);
+$burgund          : hsl(346, 57, 36);
+$marine           : hsl(208, 100, 32); // Update Bulma's variables
+$family-sans-serif: "Fira Sans", sans-serif;
+$primary          : $ultra-violet;
+$link             : $marine;
+$footer-color     : $sky-blue;
